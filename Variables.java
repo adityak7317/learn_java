@@ -7,9 +7,11 @@ public class Variables {
         int b=10;
         double price = 25.25;
         
+
+        // we can change the values as well
         b=20;
         name = "iron man";
-        
+
 
     }
 }
