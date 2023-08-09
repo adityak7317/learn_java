@@ -25,5 +25,14 @@ public class Datatypes {
         //     Object
         //     Interface
         // }
+
+
+        int a=10;
+        int b=5;
+        int ans1 = a*b/a-b;
+        int ans2 = (a*b)/(a-b);
+        System.out.println(ans1);        
+        System.out.println(ans2);
+
     }
 }
